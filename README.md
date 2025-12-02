@@ -51,9 +51,9 @@ a troca de conhecimento, gosto de ser participativa em iniciativas que promovem 
 
 <!-- My Tech Stack -->
 
- <h3 align="center">
+ <h3 align="right">
   <img src="https://github.com/ligiandrz/ligiandrz/blob/image/stack.png" width=25>
-  My Tech Stack  
+  My Tech Stack 
  </h3>
 <br>
 <div align="center">
