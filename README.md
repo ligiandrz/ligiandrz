@@ -27,7 +27,7 @@ a troca de conhecimento, gosto de ser participativa em iniciativas que promovem 
  inclusão e fortalecimento da comunidade tecnológica. 
 </div>
 <!--2 imagem-->>
-<img align="right" alt="capa-Sobre" width="300" src="https://github.com/ligiandrz/ligiandrz/blob/image/flores.png"></br>
+<img align="right" width=290 alt="capa-Sobre" width="300" src="https://github.com/ligiandrz/ligiandrz/blob/image/flores.png"></br>
 
 <!-- A Little More About Me -->
  <h3 align="left">
