@@ -1,4 +1,4 @@
-![Texto Alternativo](https://github.com/ligiandrz/ligiandrz/blob/image/Design%20sem%20nome%20(1).png)
+
 <!--
 **ligiandrz/ligiandrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
