@@ -14,7 +14,7 @@
 </a>
 </div>
 
-<img src="https://github.com/ligiandrz/ligiandrz/blob/image/bear.png" width=300 align="left">
+<img src="https://github.com/ligiandrz/ligiandrz/blob/image/bear.png" width=290 align="left">
  <h3 align="center">
   Who am i ? 
  </h3>
@@ -30,7 +30,7 @@ a troca de conhecimento, gosto de ser participativa em iniciativas que promovem 
 <img align="right" alt="capa-Sobre" width="300" src="https://github.com/ligiandrz/ligiandrz/blob/image/flores.png"></br>
 
 <!-- A Little More About Me -->
- <h3 align="center">
+ <h3 align="left">
   <img src="https://github.com/ligiandrz/ligiandrz/blob/image/person_heart.png" width=25>
  A little more about me 
 
