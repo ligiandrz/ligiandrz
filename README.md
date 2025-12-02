@@ -14,7 +14,7 @@
 </a>
 </div>
 
-<img src="https://github.com/ligiandrz/ligiandrz/blob/image/bear.png" width=330 align="left">
+<img src="https://github.com/ligiandrz/ligiandrz/blob/image/bear.png" width=300 align="left">
  <h3 align="center">
   Who am i ? 
  </h3>
