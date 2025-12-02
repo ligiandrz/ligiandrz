@@ -32,7 +32,7 @@ a troca de conhecimento, gosto de ser participativa em iniciativas que promovem 
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://github.com/ligiandrz/ligiandrz/blob/image/person_heart.png" width=25>
-  A Little More About Me 
+ About Me 
 
  </h3>
   Atuo como voluntária na Katie Ufal, um projeto parceiro das meninas digitais dedicado a incentivar a 
