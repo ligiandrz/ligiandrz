@@ -58,7 +58,7 @@ a troca de conhecimento, gosto de ser participativa em iniciativas que promovem 
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,py,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=github,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,notion" /><br>
 </div>
 <br/>
 
